@@ -14,6 +14,7 @@ public class findDup {
 					System.out.println("Duplication string is: "+b[j]);
 				}
 			}
+			System.out.println("helll");
 		}
 	}
 	
